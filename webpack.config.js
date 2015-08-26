@@ -16,7 +16,7 @@ module.exports = {
   resolveLoader: { root: path.join(__dirname, "node_modules") },
   plugins: [
       new webpack.HotModuleReplacementPlugin(),
-      //new webpack.NoErrorsPlugin(),
+      new webpack.NoErrorsPlugin(),
       // new webpack.ResolverPlugin(
       //     new webpack.ResolverPlugin.DirectoryDescriptionFilePlugin("bower.json", ["main"])
       // )

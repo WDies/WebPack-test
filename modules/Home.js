@@ -7,7 +7,7 @@ import React from 'react';
 let Home = React.createClass({
   render: function() {
     return (
-      <div>Home3</div>
+      <div>Home2</div>
     );
   }
 });
