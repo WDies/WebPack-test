@@ -126,4 +126,4 @@ var PRODUCTS = [
   {category: 'Electronics', price: '$199.99', stocked: true, name: 'Nexus 7'}
 ];
 
-export Product FilterableProductTable;
+export default FilterableProductTable;
