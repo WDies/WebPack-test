@@ -1,0 +1,1 @@
+export VSCODE_TSJS=1
